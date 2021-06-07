@@ -23,14 +23,14 @@ Citizen.CreateThread(function()
 
 	-- Deuxième Bouton --
 
-	--	SetDiscordRichPresenceAction(0, "Se Connecter", "fivem://connect/falcon.capriceserv.com:30177")
+		SetDiscordRichPresenceAction(1, "Se Connecter", "fivem://connect/falcon.capriceserv.com:30177")
 
-	--	players = {}
-	--	for i = 0, 255 do
-	--		if NetworkIsPlayerActive( i ) then
+		players = {}
+		for i = 0, 255 do
+			if NetworkIsPlayerActive( i ) then
 					table.insert( players, i )
-	--		end
-	--	end
+			end
+		end
 
 	-- NB joueurs--
 
