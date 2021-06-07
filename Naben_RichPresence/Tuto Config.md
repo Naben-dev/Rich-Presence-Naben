@@ -1,6 +1,6 @@
 Voici un petit script RichPresence Discord qui vous permet d'avoir un statut personnalisé quand on joue sur votre serveur FiveM, le tout avec un système de boutons !
 
-Here is a small RichPresence Discord script that allows you to have a custom status when playing on your FiveM server, all with a button system !
+Here is a small RichPresence Discord script that allows you to have a custom status when playing on your FiveM server, with a buttons system !
 
 ___________________________
 
