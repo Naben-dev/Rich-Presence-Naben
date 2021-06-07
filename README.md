@@ -27,6 +27,6 @@ here is a youtube tutorial (not done by me) if you have trouble: https://www.you
 
 ___________________________
 
-Fait par Naben, contactez-moi pour plus d'informations ! "𝐍𝐚𝐛𝐞𝐧. ™ # 8962
+Fait par Naben, contactez-moi pour plus d'informations ! "𝐍𝐚𝐛𝐞𝐧.™ 🌴#8962
 
 Made by Naben, contact me to have more informations ! "𝐍𝐚𝐛𝐞𝐧.™ 🌴#8962
