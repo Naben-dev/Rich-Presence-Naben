@@ -12,7 +12,7 @@ Citizen.CreateThread(function()
 
 	-- Bouton --
 
-		SetDiscordRichPresenceAction(0, "Discord", "https://discord.gg/vNYzKWWvJM")
+		SetDiscordRichPresenceAction(0, "Discord", "https://discord.gg/2y7vUqDAT6")
 
 		players = {}
 		for i = 0, 255 do
@@ -23,7 +23,7 @@ Citizen.CreateThread(function()
 
 	-- Deuxième Bouton --
 
-		SetDiscordRichPresenceAction(1, "Se Connecter", "fivem://connect/falcon.capriceserv.com:30177")
+		SetDiscordRichPresenceAction(1, "Se Connecter", "fivem://connect/195.133.81.154:30235")
 
 		players = {}
 		for i = 0, 255 do
