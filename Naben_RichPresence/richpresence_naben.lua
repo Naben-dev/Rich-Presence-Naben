@@ -12,7 +12,7 @@ Citizen.CreateThread(function()
 
 	-- Bouton --
 
-		SetDiscordRichPresenceAction(0, "Discord", "https://discord.gg/2y7vUqDAT6")
+		SetDiscordRichPresenceAction(0, "Discord", "https://discord.gg/UrdTU44kHJ")
 
 		players = {}
 		for i = 0, 255 do
