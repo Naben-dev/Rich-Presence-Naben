@@ -14,13 +14,6 @@ Citizen.CreateThread(function()
 
 		SetDiscordRichPresenceAction(0, "Discord", "https://discord.gg/UrdTU44kHJ")
 
-		players = {}
-		for i = 0, 255 do
-			if NetworkIsPlayerActive( i ) then
-				table.insert( players, i )
-			end
-		end
-
 	-- Deuxième Bouton --
 
 		SetDiscordRichPresenceAction(1, "Se Connecter", "fivem://connect/195.133.81.154:30235")
